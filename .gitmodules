@@ -1,0 +1,3 @@
+[submodule "GANA_circuit_data"]
+	path = GANA_circuit_data
+	url = https://github.com/kkunal1408/GANA_circuit_data.git
