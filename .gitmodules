@@ -421,3 +421,6 @@
 [submodule "SoCs/CK_Riscv"]
 	path = SoCs/CK_Riscv
 	url = https://gitee.com/Core_Kingdom/CK_Riscv.git
+[submodule "Analog/evolutionary-circuits"]
+	path = Analog/evolutionary-circuits
+	url = https://github.com/Ttl/evolutionary-circuits.git
