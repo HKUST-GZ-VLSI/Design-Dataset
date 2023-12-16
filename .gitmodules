@@ -421,3 +421,6 @@
 [submodule "Analog/evolutionary-circuits"]
 	path = Analog/evolutionary-circuits
 	url = https://github.com/Ttl/evolutionary-circuits.git
+[submodule "Analog/GANA_circuit_data"]
+	path = Analog/GANA_circuit_data
+	url = https://github.com/kkunal1408/GANA_circuit_data.git
