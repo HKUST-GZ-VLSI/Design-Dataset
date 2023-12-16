@@ -424,3 +424,42 @@
 [submodule "Analog/GANA_circuit_data"]
 	path = Analog/GANA_circuit_data
 	url = https://github.com/kkunal1408/GANA_circuit_data.git
+[submodule "Analog/CktGNN"]
+	path = Analog/CktGNN
+	url = https://github.com/zehao-dong/CktGNN.git
+[submodule "Analog/avsdpll_1v8"]
+	path = Analog/avsdpll_1v8
+	url = https://github.com/lakshmi-sathi/avsdpll_1v8.git
+[submodule "Analog/RF-design-of-1.9-GHz-Rx-frontend"]
+	path = Analog/RF-design-of-1.9-GHz-Rx-frontend
+	url = https://github.com/muhammadaldacher/RF-design-of-1.9-GHz-Rx-frontend.git
+[submodule "Analog/butterworth-filter"]
+	path = Analog/butterworth-filter
+	url = https://github.com/arasgungore/butterworth-filter.git
+[submodule "Analog/ADS124S08"]
+	path = Analog/ADS124S08
+	url = https://github.com/shridattdudhat/ADS124S08.git
+[submodule "Analog/circuit-fewshot-code"]
+	path = Analog/circuit-fewshot-code
+	url = https://github.com/kouroshHakha/circuit-fewshot-code.git
+[submodule "Analog/3320VCF"]
+	path = Analog/3320VCF
+	url = https://github.com/hermflink/3320VCF.git
+[submodule "Analog/3310ADSR"]
+	path = Analog/3310ADSR
+	url = https://github.com/hermflink/3310ADSR.git
+[submodule "Analog/3330VCA"]
+	path = Analog/3330VCA
+	url = https://github.com/hermflink/3330VCA.git
+[submodule "Analog/VCO"]
+	path = Analog/VCO
+	url = https://github.com/Dhairya2908/VCO.git
+[submodule "Analog/Defuzzifier-Circuit"]
+	path = Analog/Defuzzifier-Circuit
+	url = https://github.com/pouryahoseini/Defuzzifier-Circuit.git
+[submodule "accelerators/fpga_accelerator_yolov3tiny"]
+	path = accelerators/fpga_accelerator_yolov3tiny
+	url = https://github.com/adamgallas/fpga_accelerator_yolov3tiny.git
+[submodule "accelerators/SpinalDLA"]
+	path = accelerators/SpinalDLA
+	url = https://github.com/adamgallas/SpinalDLA.git
