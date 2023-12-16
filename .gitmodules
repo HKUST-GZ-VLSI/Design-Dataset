@@ -385,3 +385,6 @@
 [submodule "FPGA/AES-FPGA"]
 	path = FPGA/AES-FPGA
 	url = https://github.com/mematrix/AES-FPGA.git
+[submodule "SoCs/Superscalar-HIT-Core-NSCSCC2020"]
+	path = SoCs/Superscalar-HIT-Core-NSCSCC2020
+	url = https://github.com/Superscalar-HIT-Core/Superscalar-HIT-Core-NSCSCC2020.git
