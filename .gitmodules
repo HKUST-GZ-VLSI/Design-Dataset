@@ -403,3 +403,6 @@
 [submodule "Generators/constellation"]
 	path = Generators/constellation
 	url = https://github.com/ucb-bar/constellation.git
+[submodule "Generators/XiangShan"]
+	path = Generators/XiangShan
+	url = https://github.com/OpenXiangShan/XiangShan.git
