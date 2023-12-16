@@ -388,3 +388,6 @@
 [submodule "SoCs/Superscalar-HIT-Core-NSCSCC2020"]
 	path = SoCs/Superscalar-HIT-Core-NSCSCC2020
 	url = https://github.com/Superscalar-HIT-Core/Superscalar-HIT-Core-NSCSCC2020.git
+[submodule "Generators/hw"]
+	path = Generators/hw
+	url = https://github.com/nvdla/hw.git
