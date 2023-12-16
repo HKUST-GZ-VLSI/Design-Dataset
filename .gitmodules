@@ -7,3 +7,6 @@
 [submodule "CircuitNet"]
 	path = CircuitNet
 	url = https://github.com/circuitnet/CircuitNet.git
+[submodule "MNISQ-quantum-circuit-dataset"]
+	path = MNISQ-quantum-circuit-dataset
+	url = https://github.com/FujiiLabCollaboration/MNISQ-quantum-circuit-dataset.git
