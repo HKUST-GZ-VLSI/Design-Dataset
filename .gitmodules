@@ -391,3 +391,15 @@
 [submodule "Generators/hw"]
 	path = Generators/hw
 	url = https://github.com/nvdla/hw.git
+[submodule "Generators/OpenSoCFabric"]
+	path = Generators/OpenSoCFabric
+	url = https://github.com/LBL-CoDEx/OpenSoCFabric.git
+[submodule "MISC/tnoc"]
+	path = MISC/tnoc
+	url = https://github.com/taichi-ishitani/tnoc.git
+[submodule "MISC/Open-Source-Network-on-Chip-Router-RTL"]
+	path = MISC/Open-Source-Network-on-Chip-Router-RTL
+	url = https://github.com/anan-cn/Open-Source-Network-on-Chip-Router-RTL.git
+[submodule "Generators/constellation"]
+	path = Generators/constellation
+	url = https://github.com/ucb-bar/constellation.git
