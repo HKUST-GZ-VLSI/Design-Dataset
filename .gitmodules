@@ -4,3 +4,6 @@
 [submodule "chipyard"]
 	path = chipyard
 	url = https://github.com/ucb-bar/chipyard.git
+[submodule "CircuitNet"]
+	path = CircuitNet
+	url = https://github.com/circuitnet/CircuitNet.git
