@@ -406,3 +406,18 @@
 [submodule "Generators/XiangShan"]
 	path = Generators/XiangShan
 	url = https://github.com/OpenXiangShan/XiangShan.git
+[submodule "SoCs/tinyriscv"]
+	path = SoCs/tinyriscv
+	url = https://gitee.com/liangkangnan/tinyriscv.git
+[submodule "SoCs/SparrowRV"]
+	path = SoCs/SparrowRV
+	url = https://gitee.com/xiaowuzxc/SparrowRV.git
+[submodule "SoCs/yuheng-riscv-soc"]
+	path = SoCs/yuheng-riscv-soc
+	url = https://gitee.com/dengchow/yuheng-riscv-soc.git
+[submodule "FPGA/Book_VIP"]
+	path = FPGA/Book_VIP
+	url = https://gitee.com/crazybingo/Book_VIP.git
+[submodule "SoCs/CK_Riscv"]
+	path = SoCs/CK_Riscv
+	url = https://gitee.com/Core_Kingdom/CK_Riscv.git
