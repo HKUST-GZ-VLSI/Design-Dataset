@@ -22,3 +22,366 @@
 [submodule "accelerators/SGen"]
 	path = accelerators/SGen
 	url = https://github.com/fserre/SGen.git
+[submodule "Components/verilog-ethernet"]
+	path = Components/verilog-ethernet
+	url = https://github.com/alexforencich/verilog-ethernet.git
+[submodule "Components/verilog"]
+	path = Components/verilog
+	url = https://github.com/seldridge/verilog.git
+[submodule "Components/verilog-axi"]
+	path = Components/verilog-axi
+	url = https://github.com/alexforencich/verilog-axi.git
+[submodule "Components/verilog-pcie"]
+	path = Components/verilog-pcie
+	url = https://github.com/alexforencich/verilog-pcie.git
+[submodule "SoCs/VerilogBoy"]
+	path = SoCs/VerilogBoy
+	url = https://github.com/zephray/VerilogBoy.git
+[submodule "Components/verilog-uart"]
+	path = Components/verilog-uart
+	url = https://github.com/alexforencich/verilog-uart.git
+[submodule "FPGA/open-fpga-verilog-tutorial"]
+	path = FPGA/open-fpga-verilog-tutorial
+	url = https://github.com/Obijuan/open-fpga-verilog-tutorial.git
+[submodule "SoCs/mips-cpu"]
+	path = SoCs/mips-cpu
+	url = https://github.com/jmahler/mips-cpu.git
+[submodule "Components/cores"]
+	path = Components/cores
+	url = https://github.com/ultraembedded/cores.git
+[submodule "Components/verilog-i2c"]
+	path = Components/verilog-i2c
+	url = https://github.com/alexforencich/verilog-i2c.git
+[submodule "Components/oh"]
+	path = Components/oh
+	url = https://github.com/aolofsson/oh.git
+[submodule "Components/sdram-controller"]
+	path = Components/sdram-controller
+	url = https://github.com/stffrdhrn/sdram-controller.git
+[submodule "SoCs/e203_hbirdv2"]
+	path = SoCs/e203_hbirdv2
+	url = https://github.com/riscv-mcu/e203_hbirdv2.git
+[submodule "SoCs/darkriscv"]
+	path = SoCs/darkriscv
+	url = https://github.com/darklife/darkriscv.git
+[submodule "SoCs/serv"]
+	path = SoCs/serv
+	url = https://github.com/olofk/serv.git
+[submodule "SoCs/zipcpu"]
+	path = SoCs/zipcpu
+	url = https://github.com/ZipCPU/zipcpu.git
+[submodule "SoCs/amiga2000-gfxcard"]
+	path = SoCs/amiga2000-gfxcard
+	url = https://github.com/mntmn/amiga2000-gfxcard.git
+[submodule "SoCs/biriscv"]
+	path = SoCs/biriscv
+	url = https://github.com/ultraembedded/biriscv.git
+[submodule "FPGA/USB_C_Industrial_Camera_FPGA_USB3"]
+	path = FPGA/USB_C_Industrial_Camera_FPGA_USB3
+	url = https://github.com/circuitvalley/USB_C_Industrial_Camera_FPGA_USB3.git
+[submodule "SoCs/step_into_mips"]
+	path = SoCs/step_into_mips
+	url = https://github.com/lvyufeng/step_into_mips.git
+[submodule "Components/openwifi-hw"]
+	path = Components/openwifi-hw
+	url = https://github.com/open-sdr/openwifi-hw.git
+[submodule "Components/openofdm"]
+	path = Components/openofdm
+	url = https://github.com/jhshi/openofdm.git
+[submodule "SoCs/mor1kx"]
+	path = SoCs/mor1kx
+	url = https://github.com/openrisc/mor1kx.git
+[submodule "Components/fpu"]
+	path = Components/fpu
+	url = https://github.com/dawsonjon/fpu.git
+[submodule "FPGA/CNN-FPGA"]
+	path = FPGA/CNN-FPGA
+	url = https://github.com/QShen3/CNN-FPGA.git
+[submodule "Components/32-Verilog-Mini-Projects"]
+	path = Components/32-Verilog-Mini-Projects
+	url = https://github.com/sudhamshu091/32-Verilog-Mini-Projects.git
+[submodule "FPGA/FPGA-USB-Device"]
+	path = FPGA/FPGA-USB-Device
+	url = https://github.com/WangXuan95/FPGA-USB-Device.git
+[submodule "FPGA/convolution_network_on_FPGA"]
+	path = FPGA/convolution_network_on_FPGA
+	url = https://github.com/hunterlew/convolution_network_on_FPGA.git
+[submodule "FPGA/FPGA-FOC"]
+	path = FPGA/FPGA-FOC
+	url = https://github.com/WangXuan95/FPGA-FOC.git
+[submodule "accelerators/AccDNN"]
+	path = accelerators/AccDNN
+	url = https://github.com/IBM/AccDNN.git
+[submodule "FPGA/tillitis-key1"]
+	path = FPGA/tillitis-key1
+	url = https://github.com/tillitis/tillitis-key1.git
+[submodule "Components/aes"]
+	path = Components/aes
+	url = https://github.com/secworks/aes.git
+[submodule "SoCs/ridecore"]
+	path = SoCs/ridecore
+	url = https://github.com/ridecore/ridecore.git
+[submodule "FPGA/Verilog-Generator-of-Neural-Net-Digit-Detector-for-FPGA"]
+	path = FPGA/Verilog-Generator-of-Neural-Net-Digit-Detector-for-FPGA
+	url = https://github.com/ZFTurbo/Verilog-Generator-of-Neural-Net-Digit-Detector-for-FPGA.git
+[submodule "SoCs/Nuked-MD-FPGA"]
+	path = SoCs/Nuked-MD-FPGA
+	url = https://github.com/nukeykt/Nuked-MD-FPGA.git
+[submodule "Components/core_ddr3_controller"]
+	path = Components/core_ddr3_controller
+	url = https://github.com/ultraembedded/core_ddr3_controller.git
+[submodule "accelerators/CNN-FPGA"]
+	path = accelerators/CNN-FPGA
+	url = https://github.com/omarelhedaby/CNN-FPGA.git
+[submodule "Components/wbuart32"]
+	path = Components/wbuart32
+	url = https://github.com/ZipCPU/wbuart32.git
+[submodule "accelerators/ZYNQ-NVDLA"]
+	path = accelerators/ZYNQ-NVDLA
+	url = https://github.com/LeiWang1999/ZYNQ-NVDLA.git
+[submodule "Components/DisplayPort_Verilog"]
+	path = Components/DisplayPort_Verilog
+	url = https://github.com/hamsternz/DisplayPort_Verilog.git
+[submodule "FPGA/ice40_ultraplus_examples"]
+	path = FPGA/ice40_ultraplus_examples
+	url = https://github.com/damdoy/ice40_ultraplus_examples.git
+[submodule "Components/FPGA-ftdi245fifo"]
+	path = Components/FPGA-ftdi245fifo
+	url = https://github.com/WangXuan95/FPGA-ftdi245fifo.git
+[submodule "Components/usbcorev"]
+	path = Components/usbcorev
+	url = https://github.com/avakar/usbcorev.git
+[submodule "SoCs/fpga-chip8"]
+	path = SoCs/fpga-chip8
+	url = https://github.com/pwmarcz/fpga-chip8.git
+[submodule "SoCs/fpg1"]
+	path = SoCs/fpg1
+	url = https://github.com/hrvach/fpg1.git
+[submodule "FPGA/fpganes"]
+	path = FPGA/fpganes
+	url = https://github.com/strigeus/fpganes.git
+[submodule "Components/async_fifo"]
+	path = Components/async_fifo
+	url = https://github.com/dpretet/async_fifo.git
+[submodule "Components/core_jpeg"]
+	path = Components/core_jpeg
+	url = https://github.com/ultraembedded/core_jpeg.git
+[submodule "SoCs/fedar-f1-rv64im"]
+	path = SoCs/fedar-f1-rv64im
+	url = https://github.com/eminfedar/fedar-f1-rv64im.git
+[submodule "FPGA/FPGA-SDcard-Reader"]
+	path = FPGA/FPGA-SDcard-Reader
+	url = https://github.com/WangXuan95/FPGA-SDcard-Reader.git
+[submodule "FPGA/FPGA-peripherals"]
+	path = FPGA/FPGA-peripherals
+	url = https://github.com/FPGAwars/FPGA-peripherals.git
+[submodule "FPGA/FPGA_Based_CNN"]
+	path = FPGA/FPGA_Based_CNN
+	url = https://github.com/mtmd/FPGA_Based_CNN.git
+[submodule "SoCs/RISC-V-CPU"]
+	path = SoCs/RISC-V-CPU
+	url = https://github.com/Evensgn/RISC-V-CPU.git
+[submodule "FPGA/fomu-workshop"]
+	path = FPGA/fomu-workshop
+	url = https://github.com/im-tomu/fomu-workshop.git
+[submodule "FPGA/FPGA-JPEG-LS-encoder"]
+	path = FPGA/FPGA-JPEG-LS-encoder
+	url = https://github.com/WangXuan95/FPGA-JPEG-LS-encoder.git
+[submodule "SoCs/vm80a"]
+	path = SoCs/vm80a
+	url = https://github.com/1801BM1/vm80a.git
+[submodule "SoCs/icestation-32"]
+	path = SoCs/icestation-32
+	url = https://github.com/dan-rodrigues/icestation-32.git
+[submodule "Components/FPGA-CAN"]
+	path = Components/FPGA-CAN
+	url = https://github.com/WangXuan95/FPGA-CAN.git
+[submodule "accelerators/Hardware-CNN"]
+	path = accelerators/Hardware-CNN
+	url = https://github.com/alan4186/Hardware-CNN.git
+[submodule "FPGA/fft-dit-fpga"]
+	path = FPGA/fft-dit-fpga
+	url = https://github.com/benreynwar/fft-dit-fpga.git
+[submodule "FPGA/iob-cache"]
+	path = FPGA/iob-cache
+	url = https://github.com/IObundle/iob-cache.git
+[submodule "accelerators/Convolutional-Neural-Network"]
+	path = accelerators/Convolutional-Neural-Network
+	url = https://github.com/AniketBadhan/Convolutional-Neural-Network.git
+[submodule "accelerators/MobileNet-in-FPGA"]
+	path = accelerators/MobileNet-in-FPGA
+	url = https://github.com/ZFTurbo/MobileNet-in-FPGA.git
+[submodule "SoCs/R8051"]
+	path = SoCs/R8051
+	url = https://github.com/risclite/R8051.git
+[submodule "FPGA/usb_cdc"]
+	path = FPGA/usb_cdc
+	url = https://github.com/ulixxe/usb_cdc.git
+[submodule "accelerators/cnn_hardware_acclerator_for_fpga"]
+	path = accelerators/cnn_hardware_acclerator_for_fpga
+	url = https://github.com/sumanth-kalluri/cnn_hardware_acclerator_for_fpga.git
+[submodule "accelerators/MIPS-pipeline-processor"]
+	path = accelerators/MIPS-pipeline-processor
+	url = https://github.com/mhyousefi/MIPS-pipeline-processor.git
+[submodule "SoCs/riskow"]
+	path = SoCs/riskow
+	url = https://github.com/racerxdl/riskow.git
+[submodule "Components/spi-slave"]
+	path = Components/spi-slave
+	url = https://github.com/nandland/spi-slave.git
+[submodule "SoCs/apple-one"]
+	path = SoCs/apple-one
+	url = https://github.com/alangarf/apple-one.git
+[submodule "FPGA/dspfilters"]
+	path = FPGA/dspfilters
+	url = https://github.com/ZipCPU/dspfilters.git
+[submodule "Components/jt12"]
+	path = Components/jt12
+	url = https://github.com/jotego/jt12.git
+[submodule "Components/NaiveMIPS-HDL"]
+	path = Components/NaiveMIPS-HDL
+	url = https://github.com/z4yx/NaiveMIPS-HDL.git
+[submodule "SoCs/agc_simulation"]
+	path = SoCs/agc_simulation
+	url = https://github.com/virtualagc/agc_simulation.git
+[submodule "MISC/Haasoscope"]
+	path = MISC/Haasoscope
+	url = https://github.com/drandyhaas/Haasoscope.git
+[submodule "Components/uart"]
+	path = Components/uart
+	url = https://github.com/jamieiles/uart.git
+[submodule "Components/NeoGeoHDMI"]
+	path = Components/NeoGeoHDMI
+	url = https://github.com/charcole/NeoGeoHDMI.git
+[submodule "Components/verilog_fixed_point_math_library"]
+	path = Components/verilog_fixed_point_math_library
+	url = https://github.com/freecores/verilog_fixed_point_math_library.git
+[submodule "Components/sdspi"]
+	path = Components/sdspi
+	url = https://github.com/ZipCPU/sdspi.git
+[submodule "SoCs/MIPS-Processor"]
+	path = SoCs/MIPS-Processor
+	url = https://github.com/neelkshah/MIPS-Processor.git
+[submodule "Components/FPGA-DDR-SDRAM"]
+	path = Components/FPGA-DDR-SDRAM
+	url = https://github.com/WangXuan95/FPGA-DDR-SDRAM.git
+[submodule "SoCs/PASC"]
+	path = SoCs/PASC
+	url = https://github.com/jbush001/PASC.git
+[submodule "Components/FPGA-FixedPoint"]
+	path = Components/FPGA-FixedPoint
+	url = https://github.com/WangXuan95/FPGA-FixedPoint.git
+[submodule "Components/FPU"]
+	path = Components/FPU
+	url = https://github.com/danshanley/FPU.git
+[submodule "Components/i3c-slave-design"]
+	path = Components/i3c-slave-design
+	url = https://github.com/NXP/i3c-slave-design.git
+[submodule "SoCs/Basic-SIMD-Processor-Verilog-Tutorial"]
+	path = SoCs/Basic-SIMD-Processor-Verilog-Tutorial
+	url = https://github.com/zslwyuan/Basic-SIMD-Processor-Verilog-Tutorial.git
+[submodule "SoCs/mc6809"]
+	path = SoCs/mc6809
+	url = https://github.com/cavnex/mc6809.git
+[submodule "Components/xcrypto"]
+	path = Components/xcrypto
+	url = https://github.com/scarv/xcrypto.git
+[submodule "Components/verilog-cam"]
+	path = Components/verilog-cam
+	url = https://github.com/alexforencich/verilog-cam.git
+[submodule "FPGA/FPGA-NFC"]
+	path = FPGA/FPGA-NFC
+	url = https://github.com/WangXuan95/FPGA-NFC.git
+[submodule "Components/dpll"]
+	path = Components/dpll
+	url = https://github.com/ZipCPU/dpll.git
+[submodule "FPGA/CNN_for_SLR"]
+	path = FPGA/CNN_for_SLR
+	url = https://github.com/ilaydayaman/CNN_for_SLR.git
+[submodule "FPGA/Image-Classification-using-CNN-on-FPGA"]
+	path = FPGA/Image-Classification-using-CNN-on-FPGA
+	url = https://github.com/padhi499/Image-Classification-using-CNN-on-FPGA.git
+[submodule "FPGA/FPGA-SDfake"]
+	path = FPGA/FPGA-SDfake
+	url = https://github.com/WangXuan95/FPGA-SDfake.git
+[submodule "FPGA/ARM_AMBA_Design"]
+	path = FPGA/ARM_AMBA_Design
+	url = https://github.com/lucky-wfw/ARM_AMBA_Design.git
+[submodule "FPGA/Systolic-array-implementation-in-RTL-for-TPU"]
+	path = FPGA/Systolic-array-implementation-in-RTL-for-TPU
+	url = https://github.com/abdelazeem201/Systolic-array-implementation-in-RTL-for-TPU.git
+[submodule "FPGA/FPGA-MPEG2-encoder"]
+	path = FPGA/FPGA-MPEG2-encoder
+	url = https://github.com/WangXuan95/FPGA-MPEG2-encoder.git
+[submodule "SoCs/ARM7"]
+	path = SoCs/ARM7
+	url = https://github.com/chsasank/ARM7.git
+[submodule "Components/verilog-math"]
+	path = Components/verilog-math
+	url = https://github.com/dawsonjon/verilog-math.git
+[submodule "Components/DSP-RTL-Lib"]
+	path = Components/DSP-RTL-Lib
+	url = https://github.com/ahmedshahein/DSP-RTL-Lib.git
+[submodule "Components/H264"]
+	path = Components/H264
+	url = https://github.com/aiminickwong/H264.git
+[submodule "FPGA/FPGA-PNG-decoder"]
+	path = FPGA/FPGA-PNG-decoder
+	url = https://github.com/WangXuan95/FPGA-PNG-decoder.git
+[submodule "FPGA/wbscope"]
+	path = FPGA/wbscope
+	url = https://github.com/ZipCPU/wbscope.git
+[submodule "SoCs/airisc_core_complex"]
+	path = SoCs/airisc_core_complex
+	url = https://github.com/Fraunhofer-IMS/airisc_core_complex.git
+[submodule "Generators/HDLGen"]
+	path = Generators/HDLGen
+	url = https://github.com/WilsonChen003/HDLGen.git
+[submodule "Components/core_dvi_framebuffer"]
+	path = Components/core_dvi_framebuffer
+	url = https://github.com/ultraembedded/core_dvi_framebuffer.git
+[submodule "FPGA/FPGA-Gzip-compressor"]
+	path = FPGA/FPGA-Gzip-compressor
+	url = https://github.com/WangXuan95/FPGA-Gzip-compressor.git
+[submodule "Components/core_audio"]
+	path = Components/core_audio
+	url = https://github.com/ultraembedded/core_audio.git
+[submodule "FPGA/XilinxUnisimLibrary"]
+	path = FPGA/XilinxUnisimLibrary
+	url = https://github.com/Xilinx/XilinxUnisimLibrary.git
+[submodule "FPGA/fpga-sdft"]
+	path = FPGA/fpga-sdft
+	url = https://github.com/mattvenn/fpga-sdft.git
+[submodule "Components/core_usb_cdc"]
+	path = Components/core_usb_cdc
+	url = https://github.com/ultraembedded/core_usb_cdc.git
+[submodule "Components/DDR2_Controller"]
+	path = Components/DDR2_Controller
+	url = https://github.com/adibis/DDR2_Controller.git
+[submodule "FPGA/FPGA-SDcard-Reader-SPI"]
+	path = FPGA/FPGA-SDcard-Reader-SPI
+	url = https://github.com/WangXuan95/FPGA-SDcard-Reader-SPI.git
+[submodule "SoCs/ARM9-compatible-soft-CPU-core"]
+	path = SoCs/ARM9-compatible-soft-CPU-core
+	url = https://github.com/risclite/ARM9-compatible-soft-CPU-core.git
+[submodule "Components/cordic"]
+	path = Components/cordic
+	url = https://github.com/cebarnes/cordic.git
+[submodule "SoCs/picorv32_Xilinx"]
+	path = SoCs/picorv32_Xilinx
+	url = https://github.com/cjhonlyone/picorv32_Xilinx.git
+[submodule "FPGA/FPGA-LZMA-compressor"]
+	path = FPGA/FPGA-LZMA-compressor
+	url = https://github.com/WangXuan95/FPGA-LZMA-compressor.git
+[submodule "Components/Ethernet-design-verilog"]
+	path = Components/Ethernet-design-verilog
+	url = https://github.com/maxs-well/Ethernet-design-verilog.git
+[submodule "Components/sha1"]
+	path = Components/sha1
+	url = https://github.com/secworks/sha1.git
+[submodule "FPGA/polyphony"]
+	path = FPGA/polyphony
+	url = https://github.com/Kenji-Ishimaru/polyphony.git
+[submodule "FPGA/AES-FPGA"]
+	path = FPGA/AES-FPGA
+	url = https://github.com/mematrix/AES-FPGA.git
