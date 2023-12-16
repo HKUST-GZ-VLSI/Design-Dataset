@@ -13,3 +13,12 @@
 [submodule "GNN-RE"]
 	path = GNN-RE
 	url = https://github.com/DfX-NYUAD/GNN-RE.git
+[submodule "accelerators/ML4Accel-Dataset"]
+	path = accelerators/ML4Accel-Dataset
+	url = https://github.com/UT-LCA/ML4Accel-Dataset.git
+[submodule "accelerators/Lenet_arch"]
+	path = accelerators/Lenet_arch
+	url = https://github.com/vishpbharadwaj/Lenet_arch.git
+[submodule "accelerators/SGen"]
+	path = accelerators/SGen
+	url = https://github.com/fserre/SGen.git
