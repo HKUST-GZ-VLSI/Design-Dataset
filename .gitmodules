@@ -463,3 +463,39 @@
 [submodule "accelerators/SpinalDLA"]
 	path = accelerators/SpinalDLA
 	url = https://github.com/adamgallas/SpinalDLA.git
+[submodule "Generators/litex"]
+	path = Generators/litex
+	url = https://github.com/enjoy-digital/litex.git
+[submodule "FPGA/openfpga-pong"]
+	path = FPGA/openfpga-pong
+	url = https://github.com/enjoy-digital/openfpga-pong.git
+[submodule "FPGA/verilog-i2c"]
+	path = FPGA/verilog-i2c
+	url = https://github.com/alexforencich/verilog-i2c.git
+[submodule "FPGA/verilog-pcie"]
+	path = FPGA/verilog-pcie
+	url = https://github.com/alexforencich/verilog-pcie.git
+[submodule "FPGA/verilog-axi"]
+	path = FPGA/verilog-axi
+	url = https://github.com/alexforencich/verilog-axi.git
+[submodule "FPGA/verilog-axis"]
+	path = FPGA/verilog-axis
+	url = https://github.com/alexforencich/verilog-axis.git
+[submodule "FPGA/verilog-ethernet"]
+	path = FPGA/verilog-ethernet
+	url = https://github.com/alexforencich/verilog-ethernet.git
+[submodule "FPGA/corundum"]
+	path = FPGA/corundum
+	url = https://github.com/corundum/corundum.git
+[submodule "FPGA/xfcp"]
+	path = FPGA/xfcp
+	url = https://github.com/alexforencich/xfcp.git
+[submodule "FPGA/verilog-uart"]
+	path = FPGA/verilog-uart
+	url = https://github.com/alexforencich/verilog-uart.git
+[submodule "FPGA/verilog-cam"]
+	path = FPGA/verilog-cam
+	url = https://github.com/alexforencich/verilog-cam.git
+[submodule "FPGA/vcu118_fmcp_qsfp"]
+	path = FPGA/vcu118_fmcp_qsfp
+	url = https://github.com/lastweek/vcu118_fmcp_qsfp.git
