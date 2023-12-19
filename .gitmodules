@@ -1,14 +1,14 @@
 [submodule "chipyard"]
-	path = chipyard
+	path = RISCV/chipyard
 	url = https://github.com/ucb-bar/chipyard.git
 [submodule "CircuitNet"]
-	path = CircuitNet
+	path = MISC/CircuitNet
 	url = https://github.com/circuitnet/CircuitNet.git
 [submodule "MNISQ-quantum-circuit-dataset"]
-	path = MNISQ-quantum-circuit-dataset
+	path = MISC/MNISQ-quantum-circuit-dataset
 	url = https://github.com/FujiiLabCollaboration/MNISQ-quantum-circuit-dataset.git
 [submodule "GNN-RE"]
-	path = GNN-RE
+	path = MISC/GNN-RE
 	url = https://github.com/DfX-NYUAD/GNN-RE.git
 [submodule "accelerators/ML4Accel-Dataset"]
 	path = accelerators/ML4Accel-Dataset
@@ -56,10 +56,10 @@
 	path = Components/sdram-controller
 	url = https://github.com/stffrdhrn/sdram-controller.git
 [submodule "SoCs/e203_hbirdv2"]
-	path = SoCs/e203_hbirdv2
+	path = RISCV/e203_hbirdv2
 	url = https://github.com/riscv-mcu/e203_hbirdv2.git
 [submodule "SoCs/darkriscv"]
-	path = SoCs/darkriscv
+	path = RISCV/darkriscv
 	url = https://github.com/darklife/darkriscv.git
 [submodule "SoCs/serv"]
 	path = SoCs/serv
@@ -71,7 +71,7 @@
 	path = SoCs/amiga2000-gfxcard
 	url = https://github.com/mntmn/amiga2000-gfxcard.git
 [submodule "SoCs/biriscv"]
-	path = SoCs/biriscv
+	path = RISCV/biriscv
 	url = https://github.com/ultraembedded/biriscv.git
 [submodule "FPGA/USB_C_Industrial_Camera_FPGA_USB3"]
 	path = FPGA/USB_C_Industrial_Camera_FPGA_USB3
@@ -176,7 +176,7 @@
 	path = FPGA/FPGA_Based_CNN
 	url = https://github.com/mtmd/FPGA_Based_CNN.git
 [submodule "SoCs/RISC-V-CPU"]
-	path = SoCs/RISC-V-CPU
+	path = RISCV/RISC-V-CPU
 	url = https://github.com/Evensgn/RISC-V-CPU.git
 [submodule "FPGA/fomu-workshop"]
 	path = FPGA/fomu-workshop
@@ -221,7 +221,7 @@
 	path = accelerators/MIPS-pipeline-processor
 	url = https://github.com/mhyousefi/MIPS-pipeline-processor.git
 [submodule "SoCs/riskow"]
-	path = SoCs/riskow
+	path = RISCV/riskow
 	url = https://github.com/racerxdl/riskow.git
 [submodule "Components/spi-slave"]
 	path = Components/spi-slave
@@ -329,7 +329,7 @@
 	path = FPGA/wbscope
 	url = https://github.com/ZipCPU/wbscope.git
 [submodule "SoCs/airisc_core_complex"]
-	path = SoCs/airisc_core_complex
+	path = RISCV/airisc_core_complex
 	url = https://github.com/Fraunhofer-IMS/airisc_core_complex.git
 [submodule "Generators/HDLGen"]
 	path = Generators/HDLGen
@@ -365,7 +365,7 @@
 	path = Components/cordic
 	url = https://github.com/cebarnes/cordic.git
 [submodule "SoCs/picorv32_Xilinx"]
-	path = SoCs/picorv32_Xilinx
+	path = RISCV/picorv32_Xilinx
 	url = https://github.com/cjhonlyone/picorv32_Xilinx.git
 [submodule "FPGA/FPGA-LZMA-compressor"]
 	path = FPGA/FPGA-LZMA-compressor
@@ -401,22 +401,22 @@
 	path = Generators/constellation
 	url = https://github.com/ucb-bar/constellation.git
 [submodule "Generators/XiangShan"]
-	path = Generators/XiangShan
+	path = RISCV/XiangShan
 	url = https://github.com/OpenXiangShan/XiangShan.git
 [submodule "SoCs/tinyriscv"]
-	path = SoCs/tinyriscv
+	path = RISCV/tinyriscv
 	url = https://gitee.com/liangkangnan/tinyriscv.git
 [submodule "SoCs/SparrowRV"]
-	path = SoCs/SparrowRV
+	path = RISCV/SparrowRV
 	url = https://gitee.com/xiaowuzxc/SparrowRV.git
 [submodule "SoCs/yuheng-riscv-soc"]
-	path = SoCs/yuheng-riscv-soc
+	path = RISCV/yuheng-riscv-soc
 	url = https://gitee.com/dengchow/yuheng-riscv-soc.git
 [submodule "FPGA/Book_VIP"]
 	path = FPGA/Book_VIP
 	url = https://gitee.com/crazybingo/Book_VIP.git
 [submodule "SoCs/CK_Riscv"]
-	path = SoCs/CK_Riscv
+	path = RISCV/CK_Riscv
 	url = https://gitee.com/Core_Kingdom/CK_Riscv.git
 [submodule "Analog/evolutionary-circuits"]
 	path = Analog/evolutionary-circuits
