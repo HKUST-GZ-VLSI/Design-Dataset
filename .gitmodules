@@ -499,3 +499,15 @@
 [submodule "FPGA/vcu118_fmcp_qsfp"]
 	path = FPGA/vcu118_fmcp_qsfp
 	url = https://github.com/lastweek/vcu118_fmcp_qsfp.git
+[submodule "RISCV/VexRiscv"]
+	path = RISCV/VexRiscv
+	url = https://github.com/SpinalHDL/VexRiscv.git
+[submodule "RISCV/NaxRiscv"]
+	path = RISCV/NaxRiscv
+	url = https://github.com/SpinalHDL/NaxRiscv.git
+[submodule "RISCV/VexiiRiscv"]
+	path = RISCV/VexiiRiscv
+	url = https://github.com/SpinalHDL/VexiiRiscv.git
+[submodule "RISCV/SaxonSoc"]
+	path = RISCV/SaxonSoc
+	url = https://github.com/SpinalHDL/SaxonSoc.git
