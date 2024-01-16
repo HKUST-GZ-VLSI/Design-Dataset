@@ -514,3 +514,6 @@
 [submodule "Analog/circuit-fewshot-data"]
 	path = Analog/circuit-fewshot-data
 	url = https://github.com/kouroshHakha/circuit-fewshot-data.git
+[submodule "RISCV/x-heep"]
+	path = RISCV/x-heep
+	url = https://github.com/esl-epfl/x-heep.git
