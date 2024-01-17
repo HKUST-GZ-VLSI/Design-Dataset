@@ -517,3 +517,6 @@
 [submodule "RISCV/x-heep"]
 	path = RISCV/x-heep
 	url = https://github.com/esl-epfl/x-heep.git
+[submodule "accelerators/FireFly-v1"]
+	path = accelerators/FireFly-v1
+	url = https://github.com/adamgallas/FireFly-v1.git
